@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://mehdiud.github.io',
                 'git_url': 'https://github.com/mehdiud/nbdev-tutorial',
                 'lib_path': 'nbdev_tutorial'},
-  'syms': {'nbdev_tutorial.core': {'nbdev_tutorial.core.foo': ('core.html#foo', 'nbdev_tutorial/core.py')}}}
+  'syms': { 'nbdev_tutorial.classification': { 'nbdev_tutorial.classification.foo': ( 'classification.html#foo',
+                                                                                      'nbdev_tutorial/classification.py'),
+                                               'nbdev_tutorial.classification.say_hello': ( 'classification.html#say_hello',
+                                                                                            'nbdev_tutorial/classification.py')}}}
