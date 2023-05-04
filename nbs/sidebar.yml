@@ -3,3 +3,4 @@ website:
     contents:
       - index.ipynb
       - 00_classification.ipynb
+      - 01_dataset_exploration.ipynb

@@ -8,4 +8,5 @@ d = { 'settings': { 'branch': 'main',
   'syms': { 'nbdev_tutorial.classification': { 'nbdev_tutorial.classification.foo': ( 'classification.html#foo',
                                                                                       'nbdev_tutorial/classification.py'),
                                                'nbdev_tutorial.classification.say_hello': ( 'classification.html#say_hello',
-                                                                                            'nbdev_tutorial/classification.py')}}}
+                                                                                            'nbdev_tutorial/classification.py')},
+            'nbdev_tutorial.exploratory_data_analysis': {}}}
