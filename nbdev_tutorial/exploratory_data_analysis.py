@@ -8,6 +8,10 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
+# %% ../nbs/01_dataset_exploration.ipynb 9
+import altair as alt
+from vega_datasets import data
+
 # %% ../nbs/01_dataset_exploration.ipynb 10
 source = data.stocks()
 
