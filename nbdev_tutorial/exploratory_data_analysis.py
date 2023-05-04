@@ -3,6 +3,11 @@
 # %% auto 0
 __all__ = ['source']
 
+# %% ../nbs/01_dataset_exploration.ipynb 3
+import pandas as pd
+import numpy as np
+from pathlib import Path
+
 # %% ../nbs/01_dataset_exploration.ipynb 10
 source = data.stocks()
 
