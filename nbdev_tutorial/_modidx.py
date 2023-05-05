@@ -9,4 +9,9 @@ d = { 'settings': { 'branch': 'main',
                                                                                       'nbdev_tutorial/classification.py'),
                                                'nbdev_tutorial.classification.say_hello': ( 'classification.html#say_hello',
                                                                                             'nbdev_tutorial/classification.py')},
-            'nbdev_tutorial.exploratory_data_analysis': {}}}
+            'nbdev_tutorial.exploratory_data_analysis': { 'nbdev_tutorial.exploratory_data_analysis.MyViz': ( 'dataset_exploration.html#myviz',
+                                                                                                              'nbdev_tutorial/exploratory_data_analysis.py'),
+                                                          'nbdev_tutorial.exploratory_data_analysis.MyViz.__init__': ( 'dataset_exploration.html#myviz.__init__',
+                                                                                                                       'nbdev_tutorial/exploratory_data_analysis.py'),
+                                                          'nbdev_tutorial.exploratory_data_analysis.MyViz.plot_stock': ( 'dataset_exploration.html#myviz.plot_stock',
+                                                                                                                         'nbdev_tutorial/exploratory_data_analysis.py')}}}
